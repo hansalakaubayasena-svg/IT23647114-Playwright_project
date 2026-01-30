@@ -11,3 +11,7 @@ https://www.swifttranslator.com/
 ```bash
 npm install
 npx playwright install
+
+## test and report
+npx playwright test
+npx playwright show-report
